@@ -441,18 +441,20 @@
                             type="text"
                             id="name"
                             name="name"
+                            autocomplete="name"
                             placeholder="Your name"
                         />
                         <input
-                            type="text"
+                            type="email"
                             id="email"
                             name="email"
+                            autocomplete="email"
                             placeholder="Your Email id"
                         />
                     </div>
                     <div class="crow">
                         <div class="ccol-left">
-                            <select name="country" id="country">
+                            <select name="country" id="country" autocomplete="country-name">
                                 <option value="" disabled selected>Select your country</option>
 <option value="Russia">Russia</option>
 <option value="USA">USA</option>
@@ -521,6 +523,7 @@
                                 type="text"
                                 id="remarks"
                                 name="remarks"
+                                autocomplete="off"
                                 placeholder="Your Remarks....."
                                 style="height: 150px"
                             ></textarea>
