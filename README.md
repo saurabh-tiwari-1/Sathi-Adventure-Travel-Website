@@ -15,13 +15,28 @@ This is a simple, responsive tourism website built using **HTML, CSS, and JavaSc
 
 [Visit SATHI ADVENTURE](https://simple-tourism-organization.netlify.app/)
 
-## 👓 Preview
+## 👓 Website Preview
 
-<img src="https://github.com/Shreyashkshirsagar/tourism-website/assets/109781537/42722076-97a7-41ae-b742-7a3981b1f2b8" width="75%" alt="SATHI ADVENTURE homepage preview">
+### 🏠 Homepage
+![SATHI ADVENTURE Homepage](./img/Sathi%20Tour%20Adventure.png)
 
-<img src="https://github.com/Shreyashkshirsagar/tourism-website/assets/109781537/50df7e06-ef9b-4669-b002-a54c0ead746b" width="75%" alt="SATHI ADVENTURE website preview">
+### 🎉 Upcoming Events
+![Upcoming Events](./img/Upcoming%20Events.png)
 
-<img src="https://github.com/Shreyashkshirsagar/tourism-website/assets/109781537/be96ca54-6442-48b1-927e-160c64e373b3" width="75%" alt="SATHI ADVENTURE website preview">
+### 🌍 Explore The World
+![Explore The World](./img/Explore%20The%20World.png)
+
+### 🧭 Upcoming Tours & Destinations
+![Upcoming Tours and Destinations](./img/UPCOMING%20TOURS%20%26%20DESTINATION.png)
+
+### ✨ About Us
+![About Us](./img/About%20Us.png)
+
+### 🤝 Inspirations & Contributions
+![Inspirations and Contributions](./img/Inspirations%20%24%20Contributions.png)
+
+### 📩 Contact Us
+![Contact Us](./img/Contact%20Us.png)
 
 ## ⛰️ Features
 
